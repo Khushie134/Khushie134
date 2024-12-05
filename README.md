@@ -1,4 +1,4 @@
-# About Me:
+# Khushie Leishangthem
 
 - 🎓 Currently in my 3rd year, pursuing **B.Tech** in **_Electronics and Communication Engineering with AI specialization_** (ECE-AI).
 - 🚀 Enthusiastic about combining technology with creative design to solve real-world problems.
